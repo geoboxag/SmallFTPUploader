@@ -240,7 +240,3 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-/_output/GEOBOX-SmallFTPUploader.vshost.exe.manifest
-/_output/GEOBOX-SmallFTPUploader.vshost.exe.config
-/_output/GEOBOX-SmallFTPUploader.vshost.exe
-/_output/GEOBOX-SmallFTPUploader.exe.config
